@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_infinite_scroll_tutorial'
+
+include ':app'
